@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5878a7&height=120&section=header"/>
 
 # <h1 align="center">  Welcome <span class="wave">👋</span> to my GitHub profile! </h1>
 
@@ -27,4 +27,4 @@
   ![Snake animation](https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5878a7&height=120&section=footer"/>
