@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://github.com/felipe-Ma1a"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-Ma1a&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  /></a></p>
 
-## <h2 align="center"> 💻 Skills </h2>
+## <h2 align="center"> 💻 Skills and Tools </h2>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
