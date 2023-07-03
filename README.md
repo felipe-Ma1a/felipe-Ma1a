@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-# <h1 align="center">  Welcome <span class="wave">👋</span> to my profile! </h1>
+# <h1 align="center">  Welcome <span class="wave">👋</span> to my GitHub profile! </h1>
 
 <br>
 
