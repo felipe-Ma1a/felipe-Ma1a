@@ -24,6 +24,11 @@
 
 
  ## <p align="center">Watch my contributions get eaten by snake 🐍</p>
-  ![Snake animation](https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake.svg)
-
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+ </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5878a7&height=120&section=footer"/> 
