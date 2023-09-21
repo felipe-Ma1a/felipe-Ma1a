@@ -24,7 +24,7 @@
 <br>
 
 
- ## <p align="center">Watch my contributions get eaten by snake 🐍</p>
+ <h2 align="center">Watch my contributions get eaten by snake 🐍</h2>
  <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake-dark.svg" />
