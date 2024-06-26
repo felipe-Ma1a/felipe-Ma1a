@@ -1,40 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004ec4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-# <h1 align="center">  Welcome <span class="wave">👋</span> to my GitHub profile! </h1>
+# Olá, me chamo Felipe Maia! 
 
-<br>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4169E1&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<p align="center"><a href="https://github.com/felipe-Ma1a"><img src="https://github-readme-stats-felipe-ma1a.vercel.app/api/top-langs/?username=felipe-Ma1a&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  /></a></p>
+# Sobre mim
 
-## <h2 align="center"> 💻 Skills and Tools </h2>
+Sou um desenvolvedor frontend com sólida experiência em criar interfaces de usuário dinâmicas e responsivas. Minha expertise inclui a utilização de tecnologias modernas como JavaScript e TypeScript, além de frameworks e bibliotecas populares como React e Next.js. 
 
-<br>
+Possuo conhecimentos em desenvolvimento backend com Node.js e estou familiarizado com bancos de dados relacionais e não relacionais, incluindo PostgreSQL e MongoDB. Meu trabalho envolve a aplicação de boas práticas de desenvolvimento, como controle de versão com Git e a utilização de serviços na nuvem com AWS.
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+Tenho um forte entendimento de design de interface e experiência do usuário, utilizando CSS, com especialização em Sass e Tailwind CSS, para criar layouts modernos e eficientes.
+
+Atualmente faço parte de um projeto voluntariado de desenvolvimento frontend na CodigoCerto, onde estou aprimorando tanto minhas habilidades técnicas como em equipe. Estou sempre buscando aprender e me adaptar às novas tendências e tecnologias do mercado para entregar soluções de alta qualidade e valor para os projetos que participo. 
+
+## 💻 Ferramentas e Tecnologias
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,javascript,typescript,react,nextjs,nodejs,docker,firebase,postgres,mongodb,aws,jest,git,vscode,figma&theme=dark)](https://skillicons.dev)
+     
+                    
+
+ ## 📫 Contatos:
+ 
+
+<div>
+  <a href="https://www.instagram.com/felipeemaiia_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipemaia850@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-ma1a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div> 
+
+ ## 📊 GitHub Stats:
+ 
+
+<div>
+  <a href="https://github.com/felipe-Ma1a">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-Ma1a&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-Ma1a&show_icons=true&theme=dracula&rank_icon=github"/>
 </div>
 
-<br>
-
-
- ## <h2 align="center">Watch my contributions get eaten by snake 🐍</h2>
- <div align="center">
+## 🐍 Snake 
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/felipe-Ma1a/felipe-Ma1a/blob/output/github-contribution-grid-snake.svg" />
   </picture>
- </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004ec4&height=120&section=footer"/> 
+ </div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/> 
