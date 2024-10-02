@@ -12,7 +12,7 @@ Possuo conhecimentos em desenvolvimento backend com Node.js e estou familiarizad
 
 Tenho um forte entendimento de design de interface e experiência do usuário, utilizando CSS, com especialização em Sass e Tailwind CSS, para criar layouts modernos e eficientes.
 
-Atualmente faço parte de um projeto voluntariado de desenvolvimento frontend na CodigoCerto, onde estou aprimorando tanto minhas habilidades técnicas como em equipe. Estou sempre buscando aprender e me adaptar às novas tendências e tecnologias do mercado para entregar soluções de alta qualidade e valor para os projetos que participo. 
+Atualmente faço parte de um projeto voluntariado de desenvolvimento frontend na Stoá, onde estou aprimorando tanto minhas habilidades técnicas como em equipe. Estou sempre buscando aprender e me adaptar às novas tendências e tecnologias do mercado para entregar soluções de alta qualidade e valor para os projetos que participo. 
 
 ## 💻 Ferramentas e Tecnologias
 
