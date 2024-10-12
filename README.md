@@ -6,17 +6,11 @@
 
 # Sobre mim
 
-Sou um desenvolvedor frontend com sólida experiência em criar interfaces de usuário dinâmicas e responsivas. Minha expertise inclui a utilização de tecnologias modernas como JavaScript e TypeScript, além de frameworks e bibliotecas populares como React e Next.js. 
+Atuo como desenvolvedor frontend, com experiência na criação de interfaces dinâmicas e responsivas, utilizando tecnologias modernas como JavaScript, TypeScript e frameworks como React e Next.js. Tenho conhecimento básico em desenvolvimento backend com Node.js, além de familiaridade com bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB.
 
-Possuo conhecimentos em desenvolvimento backend com Node.js e estou familiarizado com bancos de dados relacionais e não relacionais, incluindo PostgreSQL e MongoDB. Meu trabalho envolve a aplicação de boas práticas de desenvolvimento, como controle de versão com Git e a utilização de serviços na nuvem com AWS.
+Atualmente, sou desenvolvedor frontend na Legaplan, onde contribuo para o desenvolvimento de soluções inovadoras. Paralelamente, faço parte de um projeto voluntário na Stoá, desenvolvendo soluções para a ONG ABNMO, o que tem sido uma oportunidade enriquecedora para aperfeiçoar minhas habilidades técnicas e de trabalho em equipe.
 
-Tenho um forte entendimento de design de interface e experiência do usuário, utilizando CSS, com especialização em Sass e Tailwind CSS, para criar layouts modernos e eficientes.
-
-Atualmente, estou trabalhando como desenvolvedor frontend na Legaplan, onde tenho a oportunidade de aplicar minhas habilidades em projetos reais, colaborando para a criação de soluções inovadoras e otimizadas para os usuários.
-
-Além disso, faço parte de um projeto voluntariado de desenvolvimento frontend na Stoá, onde estamos colaborando para desenvolver soluções para a ONG ABNMO. Esse projeto tem sido uma excelente oportunidade para aprimorar minhas habilidades técnicas e de trabalho em equipe, além de contribuir com uma causa importante.
-
-Estou sempre buscando aprender e me adaptar às novas tendências e tecnologias do mercado para entregar soluções de alta qualidade e valor para os projetos que participo.
+Estou sempre em busca de novas tendências e tecnologias para entregar soluções de alta qualidade.
 
 ## 💻 Ferramentas e Tecnologias
 
