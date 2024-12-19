@@ -15,7 +15,7 @@ Estou sempre em busca de novas tendências e tecnologias para entregar soluçõe
 ## 💻 Ferramentas e Tecnologias
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,javascript,typescript,react,nextjs,nodejs,java,docker,firebase,postgres,mongodb,aws,jest,git,vscode,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,javascript,typescript,react,nextjs,nodejs,java,docker,firebase,postgres,mongodb,aws,jest,cypress,git,vscode,figma&theme=dark)](https://skillicons.dev)
      
                     
 
