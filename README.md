@@ -6,11 +6,13 @@
 
 # Sobre mim
 
-Atuo como desenvolvedor frontend, com experiência na criação de interfaces dinâmicas e responsivas, utilizando tecnologias modernas como JavaScript, TypeScript e frameworks como React e Next.js. Tenho conhecimento básico em desenvolvimento backend com Node.js, além de familiaridade com bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB.
+Atuo principalmente como desenvolvedor frontend, com experiência na criação de interfaces dinâmicas e responsivas utilizando JavaScript, TypeScript, React e Next.js. Também possuo conhecimento em desenvolvimento backend com Node.js e bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB.
 
-Atualmente, sou desenvolvedor frontend na Legaplan, onde contribuo para o desenvolvimento de soluções inovadoras. Paralelamente, faço parte de um projeto voluntário na IpeCode, desenvolvendo soluções para a ONG ABNMO, o que tem sido uma oportunidade enriquecedora para aperfeiçoar minhas habilidades técnicas e de trabalho em equipe.
+Atualmente, trabalho como Analista de Suporte Júnior na Foundever, onde atuo na resolução de problemas técnicos e no suporte a clientes, aprimorando minhas habilidades em troubleshooting, comunicação e otimização de processos.
 
-Estou sempre em busca de novas tendências e tecnologias para entregar soluções de alta qualidade.
+Paralelamente, participo de um projeto voluntário na IpeCode, desenvolvendo soluções para a ONG ABNMO. Esse trabalho tem sido uma oportunidade enriquecedora para aperfeiçoar minhas habilidades técnicas e de trabalho em equipe.
+
+Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados para entregar soluções eficientes e de alta qualidade.
 
 ## 💻 Ferramentas e Tecnologias
 
